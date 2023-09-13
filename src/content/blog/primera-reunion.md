@@ -1,5 +1,5 @@
 ---
-title: "Primera Reunión"
+title: "📝 Primera Reunión"
 description: "Relatoria de la primera reunión de latNYMamerica"
 featured: true
 orderInSeries: 1

@@ -1,5 +1,5 @@
 ---
-title: "Third post"
+title: "📝 Tercera Reunión"
 description: "Lorem ipsum dolor sit amet"
 seriesId: first-series
 orderInSeries: 3
