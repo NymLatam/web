@@ -1,7 +1,7 @@
 ---
 title: "📝 Tercera Reunión"
 description: "Lorem ipsum dolor sit amet"
-seriesId: first-series
+seriesId: core
 orderInSeries: 3
 pubDate: "Jul 15 2022"
 cover: "~/assets/placeholder-hero.png"

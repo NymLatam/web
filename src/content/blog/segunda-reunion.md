@@ -1,7 +1,7 @@
 ---
 title: "📝 Segunda Reunión"
 description: "Lorem ipsum dolor sit amet"
-seriesId: first-series
+seriesId: core
 orderInSeries: 2
 pubDate: "Sep 15 2023"
 updatedDate: "25 Jul 2023"

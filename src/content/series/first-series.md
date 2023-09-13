@@ -1,6 +1,6 @@
 ---
-id: first-series
-title: "First Series"
-description: "This is my first series on this blog. This is my first series on this blog. This is my first series on this blog. This is my first series on this blog. This is my first series on this blog. This is my first series on this blog"
+id: core
+title: "Nucleo"
+description: "Post con relación al nucleo del grupo"
 featured: true
 ---

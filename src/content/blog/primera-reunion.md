@@ -2,6 +2,7 @@
 title: "📝 Primera Reunión"
 description: "Relatoria de la primera reunión de latNYMamerica"
 featured: true
+seriesId: core
 orderInSeries: 1
 pubDate: "Sep 11 2023"
 tags:
