@@ -3,7 +3,7 @@ title: "Second post"
 description: "Lorem ipsum dolor sit amet"
 seriesId: first-series
 orderInSeries: 2
-pubDate: "22 Jul 2022"
+pubDate: "Sep 15 2023"
 updatedDate: "25 Jul 2023"
 tags:
   - second-post
