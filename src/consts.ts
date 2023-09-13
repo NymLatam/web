@@ -4,3 +4,5 @@ export const SITE_DESCRIPTION = "latNYMamerica | Operadorxs de nodos de nym en l
 export const TWITTER_HANDLE = "https://twitter.com/EspanolNym";
 export const GITHUB_HANDLE = "https://github.com/NymLatam/web";
 export const CLOUDINARY_NAME = "https://t.me/NYMSPANISH";
+export const INSTAGRAM="https://github.com/NymLatam/";
+ 
